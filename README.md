@@ -3,10 +3,10 @@
 
 ## 📘 AI 학습 정리
 ## 1. About GitHub, Markdown, Colab, w3schools
-- [GitHub 사용법](#●-github-사용법)
-- [Markdown 문법](#●-markdown-문법)  
-- [Colab 기초](#●-colab-기초)
-- [w3schools 사이트로 파이썬 기초 공부](#●-w3schools-사이트로-파이썬-기초-공부)
+- [● GitHub 사용법](#●-github-사용법)
+- [● Markdown 문법](#●-markdown-문법)  
+- [● Colab 기초](#●-colab-기초)
+- [● w3schools 사이트로 파이썬 기초 공부](#●-w3schools-사이트로-파이썬-기초-공부)
 
 ### ● GitHub 사용법
 
