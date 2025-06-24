@@ -92,7 +92,7 @@ print("안녕하세요")
 7.github에서 보기 좋게 정리하는 구조는 #을 적극이용한다
 
 ## Colab 기초  
-(https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5
+(https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5)
 
 1. 런타임 유형 변경 -> T4 GPU
 
