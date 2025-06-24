@@ -42,7 +42,7 @@
    
 ![create_repository](https://github.com/user-attachments/assets/8c2eb16b-8dfc-465a-88cd-d35770d12df0)
 
-## ✅ Markdown 문법
+## Markdown 문법
 ### 샵 갯수에 따른 폰트 사이즈 변화 3개
 #### 샵 갯수에 따른 폰트 사이즈 변화 4개
 ##### 샵 갯수에 따른 폰트 사이즈 변화 5개
@@ -88,7 +88,7 @@ print("안녕하세요")
 
 7.github에서 보기 좋게 정리하는 구조는 #을 적극이용한다
 
-## ✅ Colab 기초  
+## Colab 기초  
 (https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5
 
 1. 런타임 유형 변경 -> T4 GPU
@@ -102,49 +102,45 @@ print("안녕하세요")
 3. github에서 코드를 확인할수 있다.
    ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1))
 
-## 2. About Python3
+# 1. About Python3
 - [Python basic](./docs/python3.md)
 
-## 3.  data structure / data sciencs
-
+## 2. data structure / data sciencs
 - [데이터 구조 개요](./data_structures.md)
 - [Pandas](./pandas.md)
 - [Numpy](./numpy.md)
 - [Matplotlib](./Matplotlib.md)
 
-## 4. Machine Learning
-
+## 3. Machine Learning
 - [Machine Learning Basic](./ml_basic.md)
 - [모델 훈련 및 평가](./ml_test.md)
 
-## 5. OpenCV
-
+## 4. OpenCV
 - [OpenCV Basic](./OpenCV_basic.md)
 - [이미지 처리](./image_test.md)
 
-  
-## 6. CNN(Convolution Neural Network
+## 5. CNN(Convolution Neural Network
 - [CNN_Basic](./CNN_basic.md)
 - [CNN_자율주행 관련 코드](./cnn_test.md)
 
-## 7. Ultralytics
+## 6. Ultralytics
 - [Ultralytics_Basic](./Ultralytics_basic.md)
 - [YOLOv8](./YOLOv8_test.md)
 - [YOLOv12](./YOLOv12_test.md)
   
-## 8. TensorRT vs PyTorch 
+## 7. TensorRT vs PyTorch 
 - [PyTorch_Basic](./PyTorch_basic.md)
 - [TensorRT](./TensorRT_test.md)
 - [YOLOv12](./YOLOv12_test.md)
 
-## 9. TAO Toolkit on RunPod
+## 8. TAO Toolkit on RunPod
 - [TAO_사용법](.TAO_install.md)
 - [TAO_Toolkit](.TAO_Toolkit.md)
 
-## 10. 칼만필터, CARLA, 경로 알고리즘
+## 9. 칼만필터, CARLA, 경로 알고리즘
 - [kalman](.kalman.md)
 - [CARLA_simulator](.CARLA.md)
 
-## 11. ADAS & (ADAS TensorRT vs PyTorch)
+## 10. ADAS & (ADAS TensorRT vs PyTorch)
 - [adas_basic](.adas_basic.md)
 - [TensorRT vs PyTorch 비교](.vs.md)
