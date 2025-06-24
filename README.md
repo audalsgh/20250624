@@ -93,15 +93,15 @@ print("안녕하세요")
 ### ● Colab 기초  
 (https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5)
 
-1. 런타임 유형 변경 -> T4 GPU
+1.런타임 유형 변경 -> T4 GPU
 
    ![image](https://github.com/user-attachments/assets/30e8abfa-d3a3-4a85-825b-386c18565fcb)
 
-2. 파일 -> github에 사본저장
+2.파일 -> github에 사본저장
    ![image](https://github.com/user-attachments/assets/1c65bc29-fc70-4cde-baa2-821e154ba52d)
    ![image](https://github.com/user-attachments/assets/f95321fc-3a20-4b8b-aeca-ece22ef900d8)
 
-3. github에서 코드를 확인할수 있다.
+3.github에서 코드를 확인할수 있다.
    ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1)
 
 ### ● w3schools 사이트로 파이썬 기초 공부
