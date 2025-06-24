@@ -1,5 +1,3 @@
-# 20250624
-
 # 📘 AI 학습 정리
 
 ## 1. About GitHub, Markdown, Colab
@@ -97,4 +95,3 @@
 ## 11. ADAS & (ADAS TensorRT vs PyTorch)
 - [adas_basic](.adas_basic.md)
 - [TensorRT vs PyTorch 비교](.vs.md)
-- 
