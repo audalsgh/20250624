@@ -1,16 +1,16 @@
 # 1일차 내용요약
 ### * 앞으로 구글 colab에서 파이썬 코드작성후, Github에 .ipynb 사본파일을 저장해둘것이다.
 
-# 📘 AI 학습 정리
-# 1. About GitHub, Markdown, Colab, w3schools
+## 📘 AI 학습 정리
+## 1. About GitHub, Markdown, Colab, w3schools
 - [GitHub 사용법](#github-사용법)
 - [Markdown 문법](#markdown-문법)  
 - [Colab 기초](#colab-기초)
 - [w3schools 사이트로 파이썬 기초 공부](#w3schools-사이트로-파이썬-기초-공부)
 
-## GitHub 사용법
+### GitHub 사용법
 
-### ✅ GitHub 계정 만드는 순서 (2025년 기준)
+#### ✅ GitHub 계정 만드는 순서 (2025년 기준)
 
 1. **웹 브라우저 열기**
    크롬(Chrome), 엣지(Edge), 사파리(Safari) 중 편한 걸 사용하세요.
@@ -33,7 +33,7 @@
    - 예시: jetsunmom, sungsookjang66 등
    - 영어, 숫자, 하이픈(-) 가능 (띄어쓰기 ❌)
 
-### ✅ Repository 만들기 순서
+#### ✅ Repository 만들기 순서
 
 1. **GitHub에 로그인 후 New Repository 클릭**
    ![new](https://github.com/user-attachments/assets/3481a680-f677-403b-be8c-1fe59d5aa7cb)
@@ -45,7 +45,7 @@
    
 ![create_repository](https://github.com/user-attachments/assets/8c2eb16b-8dfc-465a-88cd-d35770d12df0)
 
-## Markdown 문법
+### Markdown 문법
 1.github에서 보기 좋게 정리하는 구조는 #을 적극이용한다
 ### 샵 갯수에 따른 폰트 사이즈 변화 3개
 #### 샵 갯수에 따른 폰트 사이즈 변화 4개
@@ -90,7 +90,7 @@ print("안녕하세요")
 | 철수 | 30 | 개발자 |
 ```
 
-## Colab 기초  
+### Colab 기초  
 ●  https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5
 
 1. 런타임 유형 변경 -> T4 GPU
@@ -104,49 +104,49 @@ print("안녕하세요")
 3. github에서 코드를 확인할수 있다.
    ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1)
 
-## w3schools 사이트로 파이썬 기초 공부
+### w3schools 사이트로 파이썬 기초 공부
 ●  [ https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp)
 
-# 2. 강의계획
-## 1. About Python3
+## 2. 강의계획
+### 1. About Python3
 - [Python basic](./docs/python3.md)
 
-## 2. data structure / data sciencs
+### 2. data structure / data sciencs
 - [데이터 구조 개요](./data_structures.md)
 - [Pandas](./pandas.md)
 - [Numpy](./numpy.md)
 - [Matplotlib](./Matplotlib.md)
 
-## 3. Machine Learning
+### 3. Machine Learning
 - [Machine Learning Basic](./ml_basic.md)
 - [모델 훈련 및 평가](./ml_test.md)
 
-## 4. OpenCV
+### 4. OpenCV
 - [OpenCV Basic](./OpenCV_basic.md)
 - [이미지 처리](./image_test.md)
 
-## 5. CNN(Convolution Neural Network
+### 5. CNN(Convolution Neural Network
 - [CNN_Basic](./CNN_basic.md)
 - [CNN_자율주행 관련 코드](./cnn_test.md)
 
-## 6. Ultralytics
+### 6. Ultralytics
 - [Ultralytics_Basic](./Ultralytics_basic.md)
 - [YOLOv8](./YOLOv8_test.md)
 - [YOLOv12](./YOLOv12_test.md)
   
-## 7. TensorRT vs PyTorch 
+### 7. TensorRT vs PyTorch 
 - [PyTorch_Basic](./PyTorch_basic.md)
 - [TensorRT](./TensorRT_test.md)
 - [YOLOv12](./YOLOv12_test.md)
 
-## 8. TAO Toolkit on RunPod
+### 8. TAO Toolkit on RunPod
 - [TAO_사용법](.TAO_install.md)
 - [TAO_Toolkit](.TAO_Toolkit.md)
 
-## 9. 칼만필터, CARLA, 경로 알고리즘
+### 9. 칼만필터, CARLA, 경로 알고리즘
 - [kalman](.kalman.md)
 - [CARLA_simulator](.CARLA.md)
 
-## 10. ADAS & (ADAS TensorRT vs PyTorch)
+### 10. ADAS & (ADAS TensorRT vs PyTorch)
 - [adas_basic](.adas_basic.md)
 - [TensorRT vs PyTorch 비교](.vs.md)
