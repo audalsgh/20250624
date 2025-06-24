@@ -107,7 +107,7 @@ print("안녕하세요")
 ## w3schools 사이트로 파이썬 기초 공부
 ●  [ https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp)
 
-# 📘 강의계획
+# 2. 강의계획
 ## 1. About Python3
 - [Python basic](./docs/python3.md)
 
