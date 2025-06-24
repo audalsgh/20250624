@@ -46,6 +46,7 @@
 ![create_repository](https://github.com/user-attachments/assets/8c2eb16b-8dfc-465a-88cd-d35770d12df0)
 
 ## Markdown 문법
+github에서 보기 좋게 정리하는 구조는 #을 적극이용한다
 ### 샵 갯수에 따른 폰트 사이즈 변화 3개
 #### 샵 갯수에 따른 폰트 사이즈 변화 4개
 ##### 샵 갯수에 따른 폰트 사이즈 변화 5개
@@ -88,8 +89,6 @@ print("안녕하세요")
 | 영희 | 25 | 디자이너 |
 | 철수 | 30 | 개발자 |
 ```
-
-7.github에서 보기 좋게 정리하는 구조는 #을 적극이용한다
 
 ## Colab 기초  
 ●  https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5
