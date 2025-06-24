@@ -91,7 +91,7 @@ print("안녕하세요")
 ```
 
 ### ● Colab 기초  
-●  https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5
+(https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5)
 
 1. 런타임 유형 변경 -> T4 GPU
 
@@ -105,7 +105,7 @@ print("안녕하세요")
    ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1)
 
 ### ● w3schools 사이트로 파이썬 기초 공부
-●  [ https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp)
+([ https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp))
 
 ## 2. 강의계획
 ### 1. About Python3
