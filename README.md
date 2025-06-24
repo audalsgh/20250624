@@ -8,9 +8,9 @@
 - [Colab 기초](#colab-기초)
 - [w3schools 사이트로 파이썬 기초 공부](#w3schools-사이트로-파이썬-기초-공부)
 
-### GitHub 사용법
+## GitHub 사용법
 
-#### ✅ GitHub 계정 만드는 순서 (2025년 기준)
+### ✅ GitHub 계정 만드는 순서 (2025년 기준)
 
 1. **웹 브라우저 열기**
    크롬(Chrome), 엣지(Edge), 사파리(Safari) 중 편한 걸 사용하세요.
@@ -33,7 +33,7 @@
    - 예시: jetsunmom, sungsookjang66 등
    - 영어, 숫자, 하이픈(-) 가능 (띄어쓰기 ❌)
 
-#### ✅ Repository 만들기 순서
+### ✅ Repository 만들기 순서
 
 1. **GitHub에 로그인 후 New Repository 클릭**
    ![new](https://github.com/user-attachments/assets/3481a680-f677-403b-be8c-1fe59d5aa7cb)
@@ -45,7 +45,7 @@
    
 ![create_repository](https://github.com/user-attachments/assets/8c2eb16b-8dfc-465a-88cd-d35770d12df0)
 
-### Markdown 문법
+## Markdown 문법
 1.github에서 보기 좋게 정리하는 구조는 #을 적극이용한다
 ### 샵 갯수에 따른 폰트 사이즈 변화 3개
 #### 샵 갯수에 따른 폰트 사이즈 변화 4개
@@ -90,7 +90,7 @@ print("안녕하세요")
 | 철수 | 30 | 개발자 |
 ```
 
-### Colab 기초  
+## Colab 기초  
 (https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5)
 
 1.런타임 유형 변경 -> T4 GPU
@@ -104,7 +104,7 @@ print("안녕하세요")
 3.github에서 코드를 확인할수 있다.
    ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1)
 
-### w3schools 사이트로 파이썬 기초 공부
+## w3schools 사이트로 파이썬 기초 공부
 ([https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp))
 
  w3schools 사이트와, Colab을 동시에 열어두고 파이썬 코드를 돌려보며 공부한다.
