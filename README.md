@@ -128,7 +128,7 @@ print("안녕하세요")
 
 ## 2. 강의계획
 ### 1. About Python3
-- [Python basic](./docs/python3.md)
+- https://docs.google.com/document/d/19VkSDEzg3EgwLROp6Z0-3Bdayx0T_X4vmB3hQZFbOxY/edit?tab=t.0#heading=h.ys7mpn2jg5l4
 
 ### 2. data structure / data sciencs
 - [데이터 구조 개요](./data_structures.md)
