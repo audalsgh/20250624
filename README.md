@@ -102,7 +102,8 @@ print("안녕하세요")
 3. github에서 코드를 확인할수 있다.
    ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1))
 
-# 1. About Python3
+# 📘 강의계획
+## 1. About Python3
 - [Python basic](./docs/python3.md)
 
 ## 2. data structure / data sciencs
