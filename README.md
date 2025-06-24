@@ -100,7 +100,7 @@ print("안녕하세요")
    ![image](https://github.com/user-attachments/assets/f95321fc-3a20-4b8b-aeca-ece22ef900d8)
 
 3. github에서 코드를 확인할수 있다.
-   ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1))
+   ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1)
 
 # 📘 강의계획
 ## 1. About Python3
