@@ -8,7 +8,7 @@
 - [Colab 기초](#colab-기초)
 - [w3schools 사이트로 파이썬 기초 공부](#w3schools-사이트로-파이썬-기초-공부)
   
-### ✅ w3schools 사이트로 파이썬 기초 공부
+## w3schools 사이트로 파이썬 기초 공부
 [ https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp)
 
 ## GitHub 사용법
