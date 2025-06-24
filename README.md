@@ -33,12 +33,12 @@
 ### ✅ Repository 만들기 순서
 
 1. **GitHub에 로그인 후 New Repository 클릭**
-2. ![new](https://github.com/user-attachments/assets/3481a680-f677-403b-be8c-1fe59d5aa7cb)
+   ![new](https://github.com/user-attachments/assets/3481a680-f677-403b-be8c-1fe59d5aa7cb)
 
-3. **Repository 이름 입력**
-4. **Public/Private 선택**
-5. **README.md 파일 생성 체크**
-6. **Create repository 버튼 클릭**
+2. **Repository 이름 입력**
+3. **Public/Private 선택**
+4. **README.md 파일 생성 체크**
+5. **Create repository 버튼 클릭**
    
 ![create_repository](https://github.com/user-attachments/assets/8c2eb16b-8dfc-465a-88cd-d35770d12df0)
 
