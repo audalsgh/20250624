@@ -107,6 +107,11 @@ print("안녕하세요")
 ### ● w3schools 사이트로 파이썬 기초 공부
 ([https://www.w3schools.com/python/python_datatypes.asp](https://www.w3schools.com/python/default.asp))
 
+w3schools 사이트와, Colab을 동시에 열어두고 파이썬 코드를 돌려보며 공부한다.
+
+![image](https://github.com/user-attachments/assets/983dd1cb-e0c5-404e-ae17-96491786a340)
+
+
 ## 2. 강의계획
 ### 1. About Python3
 - [Python basic](./docs/python3.md)
