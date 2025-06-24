@@ -47,7 +47,18 @@
 (여기에 마크다운 내용 작성)
 
 ## Colab 기초  
-(여기에 Colab 내용 작성)
+(https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5
+
+1. 런타임 유형 변경 -> T4 GPU
+
+   ![image](https://github.com/user-attachments/assets/30e8abfa-d3a3-4a85-825b-386c18565fcb)
+
+2. 파일 -> github에 사본저장
+   ![image](https://github.com/user-attachments/assets/1c65bc29-fc70-4cde-baa2-821e154ba52d)
+   ![image](https://github.com/user-attachments/assets/f95321fc-3a20-4b8b-aeca-ece22ef900d8)
+
+3. github에서 코드를 확인할수 있다.
+   ![image](https://github.com/user-attachments/assets/e6b67e8a-d4e5-412b-bfc3-173e2a9ad6b1))
 
 ## 2. About Python3
 - [Python basic](./docs/python3.md)
