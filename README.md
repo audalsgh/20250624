@@ -9,6 +9,8 @@
 - [w3schools 사이트로 파이썬 기초 공부](#w3schools-사이트로-파이썬-기초-공부)
 
 ## GitHub 사용법
+https://docs.google.com/document/d/1etW42CoobXiP_YNdwbuctjVIuj2V-71Rd3cMjE9drno/edit?tab=t.0
+깃허브 샘플 만들기 문서버전
 
 ### ✅ GitHub 계정 만드는 순서 (2025년 기준)
 
