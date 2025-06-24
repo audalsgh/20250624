@@ -107,7 +107,7 @@ print("안녕하세요")
 ## Colab 기초  
 (https://colab.research.google.com/drive/1kjk4TaXF05J5hpyAIl9mtpPz_PA3CV32#scrollTo=xqIeXOJikMM5)
 
-1.런타임 유형 변경 -> T4 GPU
+1.런타임 유형 변경 -> T4 GPU 는 매우고성능, L4 CPU 사용해도 무관
 
    ![image](https://github.com/user-attachments/assets/30e8abfa-d3a3-4a85-825b-386c18565fcb)
 
