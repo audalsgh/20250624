@@ -24,25 +24,10 @@
 ![image](https://github.com/user-attachments/assets/bf514a73-b1e8-494a-947d-60052f2f7d4b)
 
 
-문자열 처리 주의사항
-# 따옴표 주의
-# 잘못된 경우
-# 올바른 경우
-text = "She said "Hello""  # 에러!
-text = "She said \"Hello\""  # 올바름
-text = 'She said "Hello"'   # 올바름
+### 문자열 처리 주의사항
 
-
-
-# 문자열과 숫자 연산
-# 잘못된 경우
-# 올바른 경우
-age = 25
-print("나이: " + age)   # 에러! 타입 불일치
-age = 25
-print("나이: " + str(age))   # 올바름
-print(f"나이: {age}")        # 올바름 (f-string)
-
+![image](https://github.com/user-attachments/assets/ca8a2e77-c110-4e40-bb43-5188a0c1785b)
+![image](https://github.com/user-attachments/assets/dd32d364-a7c6-4baf-844a-6c046fd2d5c2)
 
 
 
