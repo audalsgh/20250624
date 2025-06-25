@@ -19,9 +19,8 @@
 - 숫자로 시작할 수 없음
 - 특수문자 사용 불가 (밑줄 _ 제외)
 - 예약어 사용 불가
-
-    **#잘못된 변수명               #올바른 변수명**
-
+- 
+![image](https://github.com/user-attachments/assets/3084e284-f1f1-4d28-a0de-db2abe3d7380)
 ![image](https://github.com/user-attachments/assets/bf514a73-b1e8-494a-947d-60052f2f7d4b)
 
 
