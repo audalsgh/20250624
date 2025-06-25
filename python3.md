@@ -1,15 +1,15 @@
-Python에서 주의해야 할 점들
-문법 관련 주의사항
-들여쓰기 (Indentation)
-Python은 들여쓰기로 코드 블록을 구분합니다
-탭과 스페이스를 섞어 쓰면 안 됩니다
-일관성 있게 스페이스 4개 또는 탭 사용
+# Python에서 주의해야 할 점들
+## 문법 관련 주의사항
+### 들여쓰기 (Indentation)
+- Python은 들여쓰기로 코드 블록을 구분합니다
+- 탭과 스페이스를 섞어 쓰면 안 됩니다
+- 일관성 있게 스페이스 4개 또는 탭 사용
 
 ![image](https://github.com/user-attachments/assets/f5a656e4-bdd8-4266-9606-28e094726822)
 
-대소문자 구분
-Python은 대소문자를 구분합니다
-Print와 print는 완전히 다른 것
+### 대소문자 구분
+- Python은 대소문자를 구분합니다
+- Print와 print는 완전히 다른 것
 
 ![image](https://github.com/user-attachments/assets/0aab7a9e-f992-4158-a736-eb8deada9c55)
 
