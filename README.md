@@ -128,7 +128,7 @@ print("안녕하세요")
 ![image](https://github.com/user-attachments/assets/983dd1cb-e0c5-404e-ae17-96491786a340)
 
 ## 2. About Python3
-- [Python basic](./python3.md)
+- [Python basic](python3.md)
 
 ## 3. data structure / data sciencs
 - [데이터 구조 개요](./data_structures.md)
