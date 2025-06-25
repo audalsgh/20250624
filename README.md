@@ -1,7 +1,7 @@
 # 1일차 내용요약
 ### * 앞으로 구글 colab에서 파이썬 코드작성후, Github에 .ipynb 사본파일을 저장해둘것이다.
 
-## 📘 AI 학습 정리
+# 📘 AI 학습 정리
 ## 1. About GitHub, Markdown, Colab, w3schools
 - [GitHub 사용법](#github-사용법)
 - [Markdown 문법](#markdown-문법)  
