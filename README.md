@@ -128,7 +128,7 @@ print("안녕하세요")
 ![image](https://github.com/user-attachments/assets/983dd1cb-e0c5-404e-ae17-96491786a340)
 
 
-## 2. 강의계획
+# 2. 강의계획
 ### 1. About Python3
 - [Python basic](./python3.md)
 
